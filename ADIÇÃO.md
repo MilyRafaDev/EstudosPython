@@ -1,1 +1,0 @@
-Programa simples de Soma
